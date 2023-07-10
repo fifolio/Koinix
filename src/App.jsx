@@ -4,6 +4,7 @@
 // import {useState, useEffect} from 'react';
 // import Coin from './components/coin/Coin';
 import Header from './components/header/Header';
+import Figure from './components/figure/Figure';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function App(){
@@ -33,6 +34,7 @@ export default function App(){
     return (
       <div className='main-container container-sm'>
       <Header />
+      <Figure />
       </div>
     )
 
