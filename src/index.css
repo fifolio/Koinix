@@ -29,3 +29,12 @@ body {
     -webkit-mask-image: linear-gradient(black, transparent);
     mask-image: linear-gradient(black, transparent);
 }
+
+.footer {
+    color: lightgray;
+}
+
+.footer a{
+    color: whitesmoke;
+    text-decoration: none;
+}
