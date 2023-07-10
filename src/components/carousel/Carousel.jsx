@@ -28,8 +28,6 @@ export default function Carousel() {
     }, [])
 
 
-    console.log(res.data)
-
     if (loading) {
         return (
             <div className="d-flex justify-content-center" style={{marginTop: '150px'}}>
