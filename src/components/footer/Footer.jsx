@@ -9,7 +9,7 @@ export default function Footer() {
                 <a href="https://www.linkedin.com/in/fifolio/" target='_blank'><FaLinkedinIn /></a>
                 <a href="https://github.com/fifolio/Koinix" target='_blank' className='mx-3'><FaGithubAlt /></a>
             </div>
-            Made with ❤ by <a href="https://github.com/fifolio" target='_blank'>fifolio</a>
+            Made with ❤ by <a href="https://github.com/fifolio" target='_blank'>fifolio</a> &copy; {new Date().getFullYear()}
         </div>
     )
 }

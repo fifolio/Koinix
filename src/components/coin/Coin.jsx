@@ -68,7 +68,6 @@ export default function Coin() {
                                 <tbody key={index}>
                                     <tr>
                                         <th scope="row">
-                                            {/* <img src={coin.image} width={30} />     */}
                                         </th>
                                         <td className="text-uppercase">
                                             <img src={coin.image} width={25} style={{ marginRight: '13px' }} />
@@ -85,42 +84,13 @@ export default function Coin() {
 
                                         <td className="d-none d-md-table-cell">${coin.total_volume.toLocaleString()}</td>
                                         <td className="d-none d-md-table-cell">${coin.market_cap.toLocaleString()}</td>
-
-
                                     </tr>
                                 </tbody>
                             )
                         })}
                     </table>
                 </div>
-
-
-                {/* <div className="coin-row">
-                <div className="coin">
-                    <img src={image} alt="crypto" />
-                    <h1>{name}</h1>
-                    <p className="coin-symbol">{symbol}</p>
-                </div>
-                <div className="coin-data">
-                    <p className="coin-price">
-                        ${price}
-                    </p>
-                    <p className="coin-volume">
-                        ${volume.toLocaleString()}
-                    </p>
-                    {priceChange < 0 ? (
-                        <p className="coin-percent red">{priceChange.toFixed(2)}%</p>
-                    ): (
-                        <p className="coin-percent green">{priceChange.toFixed(2)}%</p>
-                    )};
-                    <p className="coin-marketcap">
-                        Mkt Cap: ${marketcap.toLocaleString()}
-    
-                    </p>
-                </div>
-            </div> */}
             </div>
         )
     }
-
 }
