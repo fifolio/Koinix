@@ -3,9 +3,11 @@
 // import axios from 'axios';
 // import {useState, useEffect} from 'react';
 // import Coin from './components/coin/Coin';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './components/header/Header';
 import Figure from './components/figure/Figure';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import Carousel from './components/carousel/Carousel';
+
 
 export default function App(){
 
@@ -35,6 +37,7 @@ export default function App(){
       <div className='main-container container-sm'>
       <Header />
       <Figure />
+      <Carousel />
       </div>
     )
 

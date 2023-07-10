@@ -5,7 +5,7 @@ import {BsGithub} from 'react-icons/bs';
 export default function Header() {
     return (
         <>
-            <nav className="navbar navbar-expand-lg bg-dark navbar-dark mt-3">
+            <nav className="navbar navbar-expand-lg bg-dark navbar-dark mt-3 shadow-sm rounded">
                 <div className="container-sm">
                     <a className="navbar-brand">
                         <img src="https://icon-library.com/images/bitcoin-icon-png/bitcoin-icon-png-21.jpg" width="35" height="35" />
