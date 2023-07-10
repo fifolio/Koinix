@@ -4,7 +4,7 @@
 
 
 <p class="has-line-data" data-line-start="5" data-line-end="6">
-  CryptoWatch is a cutting-edge crypto tracker app designed to provide you with a comprehensive and insightful analysis of the dynamic cryptocurrency market. Whether you're a seasoned investor, a crypto enthusiast, or someone curious about the crypto world, CryptoWatch is your go-to tool for staying ahead of the game. With CryptoWatch, you'll have real-time access to up-to-date market data for a vast array of cryptocurrencies. Keep track of live prices, market capitalization, trading volumes, and price changes of your favorite coins, all presented in a user-friendly and intuitive interface.
+  Koinix is a cutting-edge crypto tracker app designed to provide you with a comprehensive and insightful analysis of the dynamic cryptocurrency market. Whether you're a seasoned investor, a crypto enthusiast, or someone curious about the crypto world, Koinix is your go-to tool for staying ahead of the game. With Koinix, you'll have real-time access to up-to-date market data and News for a vast array of cryptocurrencies. Keep track of live prices, market capitalization, trading volumes, and price changes of your favorite coins, all presented in a user-friendly and intuitive interface.
 </p>
 
 <h2 class="code-line" data-line-start=7 data-line-end=8 ><a id="Installation_7"></a>Installation</h2>
