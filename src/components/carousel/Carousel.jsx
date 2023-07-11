@@ -41,7 +41,7 @@ export default function Carousel() {
     } else {
 
         return (
-            <div id="carouselExampleCaptions" className="carousel slide shadow">
+            <div id="carouselExampleCaptions" className="carousel slide shadow" data-bs-ride="carousel" data-bs-touch="true">
                 <div className="carousel-inner rounded">
 
                     {res.data?.map((news, index) => {
