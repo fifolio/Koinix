@@ -9,7 +9,7 @@ export default function Header() {
                 <div className="container-sm">
                     <a className="navbar-brand">
                         <img src="https://icon-library.com/images/bitcoin-icon-png/bitcoin-icon-png-21.jpg" width="35" height="35" />
-                        <span className="navbar-brand-name">
+                        <span className="navbar-brand-name fw-bold">
                             Koinix
                         </span>
                     </a>
