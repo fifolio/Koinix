@@ -55,7 +55,7 @@ export default function Coin() {
                             <tr>
                                 <th scope="col"></th>
                                 <th scope="col">Symbol</th>
-                                <th scope="col" className="d-none d-sm-table-cell">Name</th>
+                                <th scope="col" className="d-none d-md-table-cell">Name</th>
                                 <th scope="col">Price</th>
                                 <th scope="col">% Change</th>
                                 <th scope="col" className="d-none d-md-table-cell">Volume</th>
