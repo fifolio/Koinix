@@ -1,6 +1,6 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Asteroid"></a>Koinix: Your Ultimate Crypto Market and News Analyzer</h1>
 
-<p class="has-line-data" data-line-start="3" data-line-end="4"><img width="100%" height="100%" src="https://gcdnb.pbrd.co/images/pm9RiGUposIN.png" alt="N|Solid"></p>
+<p class="has-line-data" data-line-start="3" data-line-end="4"><img width="100%" height="100%" src="https://raw.githubusercontent.com/fifolio/Koinix/9405c6aa21363c00fe1f1c17b1f46daced4f2523/public/cry.PNG" alt="N|Solid"></p>
 
 
 <p class="has-line-data" data-line-start="5" data-line-end="6">
