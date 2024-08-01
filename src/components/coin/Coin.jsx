@@ -65,11 +65,11 @@ export default function Coin() {
 
                         {filteredCoins?.map((coin, index) => {
                             return (
-                                <tbody key={index}>
+                                <tbody key={index} style={{background: '#212529'}}>
                                     <tr>
                                         <th scope="row">
                                         </th>
-                                        <td className="text-uppercase">
+                                        <td className="text-uppercase d-flex">
                                             <img src={coin.image} width={30} style={{ marginRight: '13px' }} />
                                             {coin.symbol}
                                         </td>
