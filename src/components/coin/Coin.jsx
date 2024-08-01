@@ -70,7 +70,7 @@ export default function Coin() {
                                         <th scope="row">
                                         </th>
                                         <td className="text-uppercase">
-                                            <img src={coin.image} width={25} style={{ marginRight: '13px' }} />
+                                            <img src={coin.image} width={30} style={{ marginRight: '13px' }} />
                                             {coin.symbol}
                                         </td>
                                         <td className="text-capitalize d-none d-md-table-cell">{coin.name}</td>
