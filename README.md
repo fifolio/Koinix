@@ -7,6 +7,8 @@
   Koinix is a cutting-edge crypto tracker app designed to provide you with a comprehensive and insightful analysis of the dynamic cryptocurrency market. Whether you're a seasoned investor, a crypto enthusiast, or someone curious about the crypto world, Koinix is your go-to tool for staying ahead of the game. With Koinix, you'll have real-time access to up-to-date market data and News for a vast array of cryptocurrencies. Keep track of live prices, market capitalization, trading volumes, and price changes of your favorite coins, all presented in a user-friendly and intuitive interface.
 </p>
 
+🔴 <strong>View Live: </strong><a href="https://glori.netlify.app" target="_blank">Glori.netlify.app</a>
+
 <h2 class="code-line" data-line-start=7 data-line-end=8 ><a id="Installation_7"></a>Installation</h2>
 <p class="has-line-data" data-line-start="8" data-line-end="9">To get started with Koinix, you’ll need to clone this repository to your local machine:</p>
 <pre><code class="has-line-data" data-line-start="11" data-line-end="13" class="language-sh">git <span class="hljs-built_in">clone</span><a href="https://github.com/fifolio/Koinix.git"> https://github.com/fifolio/Koinix.git</a>
